@@ -1,7 +1,7 @@
 import React from 'react';
 
-const page = () => {
+const ActivateEmail = () => {
   return <div>Dit is een test!</div>;
 };
 
-export default page;
+export default ActivateEmail;
