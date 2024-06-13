@@ -1,5 +1,5 @@
 import CustomPasswordInput from '@/components/CustomPasswordInput';
-import ResetPassword from './(auth)/resetpassword/[jwt]/page';
+import ResetPassword from './auth/resetpassword/[jwt]/page';
 
 export default function Home() {
   return (
