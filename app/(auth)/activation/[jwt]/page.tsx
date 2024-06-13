@@ -1,7 +1,7 @@
 import React from 'react';
 
-const ActivateEmail = () => {
+function ActivateEmail() {
   return <div>Dit is een test!</div>;
-};
+}
 
 export default ActivateEmail;
