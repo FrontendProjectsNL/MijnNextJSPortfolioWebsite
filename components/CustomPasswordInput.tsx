@@ -1,6 +1,6 @@
 'use client';
 
-import { Input } from '@/components/ui/input';
+import { Input } from '@/components/shadcn-ui/input';
 import { Eye } from 'lucide-react';
 import { EyeOff } from 'lucide-react';
 import { useState } from 'react';
